@@ -1,5 +1,6 @@
 # tvbox-mv
 mv视频搜索服务
+java -jar tvbox-mv-0.0.1-SNAPSHOT.jar
 
 # 请求接口
 
